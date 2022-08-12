@@ -11,7 +11,6 @@ index = 3
 tim.speed(20)
 tim.pensize(10)
 
-# meu método (método da angela yu abaixo)
 
 for _ in range(200):
     tim.color(random.choice(colours))
